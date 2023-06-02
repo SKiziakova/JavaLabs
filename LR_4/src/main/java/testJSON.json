@@ -1,0 +1,2327 @@
+{
+  "name": "NTU Dnipro Polytechnic",
+  "head": {
+    "name": "Ivan",
+    "surname": "Ivanov",
+    "patronymic": "Ivanovish",
+    "sex": "MALE"
+  },
+  "faculties": [
+    {
+      "director": {
+        "name": "Ivan",
+        "surname": "Ivanov",
+        "patronymic": "Ivanovish",
+        "sex": "MALE"
+      },
+      "maxDepartmentCount": 5,
+      "departments": [
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "director": {
+        "name": "Ivan",
+        "surname": "Ivanov",
+        "patronymic": "Ivanovish",
+        "sex": "MALE"
+      },
+      "maxDepartmentCount": 5,
+      "departments": [
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "director": {
+        "name": "Ivan",
+        "surname": "Ivanov",
+        "patronymic": "Ivanovish",
+        "sex": "MALE"
+      },
+      "maxDepartmentCount": 5,
+      "departments": [
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "director": {
+        "name": "Ivan",
+        "surname": "Ivanov",
+        "patronymic": "Ivanovish",
+        "sex": "MALE"
+      },
+      "maxDepartmentCount": 5,
+      "departments": [
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "director": {
+        "name": "Ivan",
+        "surname": "Ivanov",
+        "patronymic": "Ivanovish",
+        "sex": "MALE"
+      },
+      "maxDepartmentCount": 5,
+      "departments": [
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "director": {
+        "name": "Ivan",
+        "surname": "Ivanov",
+        "patronymic": "Ivanovish",
+        "sex": "MALE"
+      },
+      "maxDepartmentCount": 5,
+      "departments": [
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupCount": 0,
+          "groups": [
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 6897895,
+                  "name": "Ivan",
+                  "surname": "Ivanov",
+                  "patronymic": "Ivanovish",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
